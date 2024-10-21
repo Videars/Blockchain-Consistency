@@ -1,5 +1,5 @@
 # Blockchain-Consistency
-**Master's thesis project**  
+**Cybersecurity Master's thesis project**  
 *Consistency of the Sleepy protocol of consensus with Markov chains.*
 
 ## Paper Structure
